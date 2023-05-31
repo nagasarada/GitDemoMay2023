@@ -7,4 +7,8 @@ public class TestApp {
     public void test1(){
         System.out.println("test1 running");
     }
+    @Test
+    public void test2(){
+        System.out.println("Running test2");
+    }
 }
